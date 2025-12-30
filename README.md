@@ -76,7 +76,7 @@ When setting up your **Negative Conditioning**, you should bypass **ALL** images
 ## 📜 Credits & Acknowledgments
 
 *   **[ComfyUI](https://github.com/comfyanonymous/ComfyUI):** For the original `TextEncodeQwenImageEdit` foundation and the core conditioning logic.
-*   [Scale Image to Total Pixels Adv]([https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt.git](https://github.com/BigStationW/ComfyUi-Scale-Image-to-Total-Pixels-Advanced))
+*   [Scale Image to Total Pixels Adv](https://github.com/yuvraj108c/ComfyUI-Upscaler-Tensorrt.git](https://github.com/BigStationW/ComfyUi-Scale-Image-to-Total-Pixels-Advanced))
 *   **[Qwen Team:](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)** For the underlying Qwen-Image/Qwen2.5-VL model architectures.
   ```bibtex
 @misc{wu2025qwenimagetechnicalreport,
