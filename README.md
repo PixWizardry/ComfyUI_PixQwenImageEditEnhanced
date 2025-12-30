@@ -2,7 +2,7 @@
 
 An enhanced Vision-Language Model (VLM) conditioning node for ComfyUI. This node is a powerful upgrade to the native `TextEncodeQwenImageEditPlus`, by ComfyUI, specifically designed for the **Qwen-Image** series.
 
-It allows you to feed up to 5 reference images into the AI's "context window," giving you unprecedented control over character consistency, style transfer, and complex image editing.
+It allows you to feed up to 5 reference images into the AI's "context window," giving you unprecedented control and complex image editing.
 
 ---
 
