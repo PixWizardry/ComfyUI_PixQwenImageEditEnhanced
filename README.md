@@ -53,7 +53,7 @@ If you have a `Load Image` node connected but **Bypass (Ctrl+B)** that image nod
 *   **Result:** The node detects the "Empty Tensor" (0 pixels) and **completely removes** the reference (e.g., "Picture 3") from the prompt.
 *   **Benefit:** No "Ghost Data." The AI won't get confused by trying to look at an image that isn't there.
 
-### 🔴 Scenario 3: The "Negative Prompt" Strategy (Recommended)
+### 🔴 Scenario 3: The "Negative Prompt" Strategy (Lightning Loras)
 When setting up your **Negative Conditioning**, you should bypass **ALL** images and the VAE.
 *   **How to do it:** Use a second copy of this node for your negative input. Or Use the native ComfyUI node. Leave all image slots empty and the VAE disconnected.
 *   **The Logic:** You want the **Positive** conditioning to have visual data, but the **Negative** conditioning to be "Blind" (Text-only). 
